@@ -1,6 +1,6 @@
 Follow the instructions in the Google Slide
 
-Make some changes to this file.
+Make some changes to this file. More changes!!
 
 Maybe fill this out?
 
@@ -11,6 +11,7 @@ Maybe fill this out?
 
 
 this is a test after `jj new my-branch`. i like mcdonalds.. PROPAGATE THIS UP!!!
+ 
 
 
 this is a test after `jj new`. i like kaya
