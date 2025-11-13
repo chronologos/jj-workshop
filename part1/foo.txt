@@ -1,10 +1,17 @@
 Follow the instructions in the Google Slide
 
-Make some changes to this file.
+Make some changes to this file. More changes!!
 
 Maybe fill this out?
 
-* The best operating system is ______
-* The best text editor is ______
-* The best kind of phone is _______
-* The best superhero is ___________
+* The best operating system is MACOS
+* The best text editor is Cursor
+* The best kind of phone is iPhone
+* The best superhero is Batman
+
+
+this is a test after `jj new my-branch`. i like mcdonalds.. PROPAGATE THIS UP!!!
+ 
+
+
+this is a test after `jj new`. i like kaya
